@@ -8,3 +8,5 @@ Create beautiful UI to play music stored in the "music folder" using the HTML5 a
 - Add play and pause functionality
 - Switch songs
 - Progress bar
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
